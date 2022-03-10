@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+
+body {
+    background-color: bisque;
+
+}
+
+
+
+.menu {
+    background-color: rgb(204, 224, 147);
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+
+    border-radius: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+
+
+    
+
+}
+
+.paragraf {
+    margin: auto;
+    font-size: 25px;
+
+}
+
+
+
+
+.iconcka {
+    background-color: bisque;
+
+}
+
+.img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+
+}
+
+.nazvanie {
+    margin-left: 15px;
+    margin-top: 25px;
+    font-size: 25px;
+
+}
+
+.inst {
+    margin: auto;
+    font-size: 25px;
+    margin-left: 30px;
+
+
+}
+
+.in {
+    color: black;
+    text-decoration: none;
+}
+
+.vkk {
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
+.instimg {
+    height: 20px;
+    width: 20px;
+
+}
+
+.vkimg {
+    height: 21px;
+    width: 21px;
+
+}
+
+.classi {
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.class-1 {
+    background-color: rgba(221, 137, 176, 0.26);
+    margin-left: 20px;
+    height: 600px;
+    width: 400px;
+
+}
+
+.class-3 {
+    background-color: rgba(221, 137, 176, 0.26);
+    margin: auto;
+    height: 600px;
+    width: 400px;
+
+}
+
+.class-2 {
+    background-color: rgba(221, 137, 176, 0.26);
+    margin: auto;
+    height: 600px;
+    width: 400px;
+
+}
+
+.class-4 {
+    background-color: rgba(221, 137, 176, 0.26);
+    margin-right: 20px;
+    height: 600px;
+    width: 400px;
+
+}
+
+.kiki {
+    height: 400px;
+    width: 380px;
+    margin-left: 10px;
+    margin-top: -5px;
+    border-radius: 28px;
+
+}
+
+.sebs {
+    margin-left: 75px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+
+.tats-1 {
+    color: #595b61;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+    margin-left: 25px;
+
+
+
+}
+
+.miki {
+    height: 400px;
+    width: 380px;
+    margin-left: 10px;
+    margin-top: -5px;
+    border-radius: 28px;
+
+}
+
+.godz {
+    margin-left: 105px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+
+.tats-2 {
+    margin-top: 16px;
+    margin-bottom: 55px;
+    color: #595b61;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+    margin-left: 25px;
+
+}
+
+.kakasi {
+    margin-left: 105px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+
+}
+
+.tats-3 {
+    margin-top: 16px;
+    margin-bottom: 55px;
+    color: #595b61;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+    margin-left: 25px;
+
+}
+
+.liki {
+    height: 400px;
+    width: 380px;
+    margin-left: 10px;
+    margin-top: -5px;
+    border-radius: 28px;
+
+}
+
+.snipers {
+    height: 400px;
+    width: 380px;
+    margin-left: 10px;
+    margin-top: -25px;
+    border-radius: 28px;
+
+}
+
+.sniper {
+    margin-left: 105px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+
+}
+
+.tats-4 {
+    margin-top: 16px;
+    margin-bottom: 55px;
+    color: #595b61;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+    margin-left: 25px;
+
+}
